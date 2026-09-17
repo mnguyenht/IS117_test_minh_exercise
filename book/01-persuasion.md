@@ -1,6 +1,6 @@
 # Chapter 1 — Persuasion and Human Decision-Making
 
-## What Persuasion Actually Is
+## What Persuasion Actually Is.
 
 Persuasion is the practice of shaping what someone pays attention to, how they interpret it, how much they trust it, and what they end up doing about it. That's it. It's not a trick, and it's not inherently dishonest — it's just the mechanics of communication with intent behind it.
 
